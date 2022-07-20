@@ -67,6 +67,7 @@
         margin-bottom: 50px;
     }
     .sidebar-item ul {}
+    
     .sidebar-item ul li{display: inline; border: 1px solid gray; padding: 20px;}
 
 }
