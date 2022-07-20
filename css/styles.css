@@ -49,22 +49,19 @@ body{font-family: 'Poppins', sans-serif;}
 .sidebar{
     border-radius: 20px;
 }
-aside{}
-.sidebar{}
+
 .sidebar-item {
     width: 201px;
     padding: 30px;
     background-color: black;
     border-radius: 15px;
 }
-aside ul{}
 aside ul li{list-style: none; padding: 10px 0; width: 100%; background-color: white;margin-top: 10px; text-align: center;border-radius: 8px; margin-top: 20px;}
 
 .active{ background-color: #DD0000;}
 .active a {color:white;}
 
 aside ul li a{text-decoration: none; color:#161616; font-size: 20px; font-weight: 500; }
-article{}
 .blog_area{
     padding-left: 50px;
     padding-top: 5px;
@@ -112,6 +109,5 @@ footer{background-color: black;color:White;padding: 50px;}
 .footer-top{padding-bottom: 50px; border-bottom: 1px solid rgb(80, 77, 77); }
 .footer-top h2{font-size: 40px; font-weight: 600;}
 .footer-bottom{padding-top: 50px;}
-.footer-bottom ul{}
 .footer-bottom ul li{list-style: none;display: inline-block;}
 .footer-bottom ul li a{color: white; text-decoration: none;padding: 10px 20px;font-weight: 500;}
